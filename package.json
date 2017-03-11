@@ -2,6 +2,10 @@
   "name": "node-process",
   "version": "1.0.0",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feiyuerenhai/node-process.git"
+  },
   "bin": {
   	"smart": "./cli.js"
   },
